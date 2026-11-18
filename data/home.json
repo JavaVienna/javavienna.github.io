@@ -1,27 +1,27 @@
 {
   "recentPast" : [ {
+    "title" : "\"Dev Career in the AI Era\" + \"Java Static Site Generation\"",
+    "dateDisplay" : "Nov 16, 2026 at 18:00",
+    "url" : "/events/2026-11-16-dev-career-in-the-ai-era-java-static-site-generat/",
+    "talkCount" : 2,
+    "hasTalks" : true
+  }, {
     "title" : "\"Event-Driven Workflow Orchestration\" + \"Functional Java\"",
     "dateDisplay" : "Oct 19, 2026 at 18:00",
-    "url" : "/events/event-driven-workflow-orchestration-functional-java-95/",
+    "url" : "/events/2026-10-19-event-driven-workflow-orchestration-functional-ja/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Debugging Class Loading with GDB\" + \"Be a better SW-Eng with AI\"",
     "dateDisplay" : "Sep 21, 2026 at 18:00",
-    "url" : "/events/debugging-class-loading-with-gdb-be-a-better-sw-eng-with-ai-92/",
-    "talkCount" : 2,
-    "hasTalks" : true
-  }, {
-    "title" : "\"living immutable: painless Java Records\" + \"Zero-Deps Java AI Business Agents\"",
-    "dateDisplay" : "Jun 29, 2026 at 18:00",
-    "url" : "/events/living-immutable-painless-java-records-zero-deps-java-ai-bus-94/",
+    "url" : "/events/2026-09-21-debugging-class-loading-with-gdb-be-a-better-sw-e/",
     "talkCount" : 2,
     "hasTalks" : true
   } ],
   "nextUpcoming" : {
-    "title" : "\"Dev Career in the AI Era\" + \"Java Static Site Generation\"",
-    "dateDisplay" : "Nov 16, 2026 at 18:00",
-    "url" : "/events/dev-career-in-the-ai-era-java-static-site-generation-96/",
+    "title" : "\"TornadoVM: GPU Accelerated Java\" +\"Drive your UI with AI\"",
+    "dateDisplay" : "Dec 3, 2026 at 18:00",
+    "url" : "/events/2026-12-03-tornadovm-gpu-accelerated-java-drive-your-ui-with/",
     "talkCount" : 2,
     "hasTalks" : true
   }

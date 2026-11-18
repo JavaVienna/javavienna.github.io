@@ -1,12 +1,12 @@
 [ {
   "companyName" : "dynatrace",
-  "slug" : "dynatrace-3",
+  "slug" : "dynatrace",
   "logo" : "https://secure.meetupstatic.com/photos/sponsor/a/5/0/6/iab120x90_2742246.jpeg",
   "level" : "Diamond",
   "websiteUrl" : "https://dynatrace.com"
 }, {
   "companyName" : "Posedio GmbH",
-  "slug" : "posedio-gmbh-1",
+  "slug" : "posedio-gmbh",
   "logo" : "/img/1d5fcaba-89c1-4521-8986-871767af23c7.jpg",
   "level" : "Gold",
   "websiteUrl" : "https://posedio.com"

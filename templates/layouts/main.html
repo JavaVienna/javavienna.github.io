@@ -49,13 +49,12 @@
     </main>
   </div>
 
-  <!-- Sponsors column — DEMO: fed live from the committed SQLite file (demo/demo.db) via the
-       DemoDb CDI bean, the "...from your Database" half of the talk. The /sponsors/ page still
-       uses the exported JSON; this column is the DB-driven showcase. -->
+  <!-- Sponsors column — current sponsors from the exported data (data/sponsors.json), the same
+       source as the /sponsors/ page. One source of truth, so the company links stay in sync. -->
   <aside class="w-60 shrink-0 border-l border-slate-200 px-5 py-8 hidden lg:block">
     <h2 class="text-base font-bold text-slate-900 mb-4">Our Sponsors</h2>
     <div class="space-y-4">
-      {#for sp in cdi:demoDb.sponsors}
+      {#for sp in cdi:sponsors.list}
         <a href="{site.url('/companies/')}{sp.slug}/" class="block border border-slate-200 rounded-lg p-2 flex flex-col items-center hover:shadow-md transition">
           {#if sp.logo}<img src="{#if sp.logo.startsWith('/')}{site.url(sp.logo)}{#else}{sp.logo}{/if}" alt="{sp.companyName}" class="h-20 w-full object-contain mb-2">{/if}
           <span class="text-sm font-medium text-slate-800">{sp.companyName}</span>

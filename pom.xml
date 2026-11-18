@@ -41,13 +41,6 @@
             <artifactId>quarkus-roq-generator</artifactId>
             <version>${roq.version}</version>
         </dependency>
-        <!-- Talk demo: read a committed SQLite file (demo/demo.db) live at build time.
-             Plain JDBC via the xerial driver (see DemoDb.java) — no datasource/Agroal needed. -->
-        <dependency>
-            <groupId>org.xerial</groupId>
-            <artifactId>sqlite-jdbc</artifactId>
-            <version>3.47.1.0</version>
-        </dependency>
     </dependencies>
 
     <build>

@@ -1,849 +1,977 @@
 [ {
   "name" : "Dominik Dorn",
-  "slug" : "dominik-dorn-4",
-  "url" : "/speakers/dominik-dorn-4/",
+  "slug" : "dominik-dorn",
+  "url" : "/speakers/dominik-dorn/",
   "photo" : "/img/3a2da3d3-257a-4f78-b5da-156bd4b7acc4.jpg",
   "company" : "greyflower GmbH",
   "jobTitle" : "Senior Software Engineer",
-  "talkCount" : 19
+  "talkCount" : 24
 }, {
   "name" : "Siegfried Göschl",
-  "slug" : "siegfried-goschl-17",
-  "url" : "/speakers/siegfried-goschl-17/",
+  "slug" : "siegfried-goschl",
+  "url" : "/speakers/siegfried-goschl/",
   "photo" : "https://github.com/sgoeschl.png",
   "company" : "ASCIIFISH Software Consulting GmbH",
   "jobTitle" : "Senile Software Engineer",
   "talkCount" : 7
 }, {
   "name" : "Christian Beikov",
-  "slug" : "christian-beikov-27",
-  "url" : "/speakers/christian-beikov-27/",
+  "slug" : "christian-beikov",
+  "url" : "/speakers/christian-beikov/",
   "photo" : "https://github.com/beikov.png",
   "company" : "Red Hat",
   "jobTitle" : "Senior Software Engineer",
   "talkCount" : 6
 }, {
-  "name" : "Damjan Gjurovski",
-  "slug" : "damjan-gjurovski-2",
-  "url" : "/speakers/damjan-gjurovski-2/",
-  "photo" : "https://media.licdn.com/dms/image/v2/D4D03AQGAioB727TYTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720607141207?e=1755734400&v=beta&t=Fb0eMQg93IH5mw6r1PRgWNo_cAGRGIpeWxmy0qfhSEo",
-  "company" : "Posedio GmbH",
-  "jobTitle" : "Head of Technology",
-  "talkCount" : 6
-}, {
   "name" : "Philipp Krenn",
-  "slug" : "philipp-krenn-48",
-  "url" : "/speakers/philipp-krenn-48/",
+  "slug" : "philipp-krenn",
+  "url" : "/speakers/philipp-krenn/",
   "photo" : "https://github.com/xeraa.png",
   "company" : "Elastic",
   "jobTitle" : "Developer Advocate",
   "talkCount" : 6
 }, {
+  "name" : "Adam Bien",
+  "slug" : "adam-bien",
+  "url" : "/speakers/adam-bien/",
+  "photo" : "https://github.com/AdamBien.png",
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 5
+}, {
+  "name" : "Damjan Gjurovski",
+  "slug" : "damjan-gjurovski",
+  "url" : "/speakers/damjan-gjurovski/",
+  "photo" : "/img/3afd4663-c515-4b2b-ab66-0e0dc45e8ec1.jpg",
+  "company" : "Posedio GmbH",
+  "jobTitle" : "Head of Technology",
+  "talkCount" : 5
+}, {
   "name" : "Ed Burns",
-  "slug" : "ed-burns-15",
-  "url" : "/speakers/ed-burns-15/",
+  "slug" : "ed-burns",
+  "url" : "/speakers/ed-burns/",
   "photo" : "https://github.com/edburns.png",
   "company" : "Microsoft",
   "jobTitle" : "Principal Architect for Java",
   "talkCount" : 5
 }, {
-  "name" : "Adam Bien",
-  "slug" : "adam-bien-19",
-  "url" : "/speakers/adam-bien-19/",
-  "photo" : "https://github.com/AdamBien.png",
-  "company" : null,
-  "jobTitle" : null,
-  "talkCount" : 4
-}, {
   "name" : "Sebastian Daschner",
-  "slug" : "sebastian-daschner-37",
-  "url" : "/speakers/sebastian-daschner-37/",
+  "slug" : "sebastian-daschner",
+  "url" : "/speakers/sebastian-daschner/",
   "photo" : "https://github.com/sdaschner.png",
   "company" : "Fairsource",
   "jobTitle" : "Chief Technology Officer",
   "talkCount" : 4
 }, {
   "name" : "Ionut Balosin",
-  "slug" : "ionut-balosin-28",
-  "url" : "/speakers/ionut-balosin-28/",
+  "slug" : "ionut-balosin",
+  "url" : "/speakers/ionut-balosin/",
   "photo" : "https://github.com/ionutbalosin.png",
   "company" : "Raiffeisen Bank International AG",
   "jobTitle" : "Principal IT Architect",
   "talkCount" : 3
 }, {
+  "name" : "Marco Sussitz",
+  "slug" : "marco-sussitz",
+  "url" : "/speakers/marco-sussitz/",
+  "photo" : "https://github.com/ReneThu.png",
+  "company" : "dynatrace",
+  "jobTitle" : "Software Developer",
+  "talkCount" : 3
+}, {
+  "name" : "Philipp Seifert-Kehrer",
+  "slug" : "philipp-seifert-kehrer",
+  "url" : "/speakers/philipp-seifert-kehrer/",
+  "photo" : "https://github.com/original-flipster69.png",
+  "company" : "Posedio GmbH",
+  "jobTitle" : "Senior Software Engineer",
+  "talkCount" : 3
+}, {
   "name" : "Venkat Subramaniam",
-  "slug" : "venkat-subramaniam-26",
-  "url" : "/speakers/venkat-subramaniam-26/",
+  "slug" : "venkat-subramaniam",
+  "url" : "/speakers/venkat-subramaniam/",
   "photo" : "https://github.com/venkats.png",
   "company" : "Agile Developer Inc.",
   "jobTitle" : "President",
   "talkCount" : 3
 }, {
   "name" : "Andreas Grabner",
-  "slug" : "andreas-grabner-59",
-  "url" : "/speakers/andreas-grabner-59/",
+  "slug" : "andreas-grabner",
+  "url" : "/speakers/andreas-grabner/",
   "photo" : "https://github.com/grabnerandi.png",
   "company" : "dynatrace",
   "jobTitle" : "DevOps Activist",
   "talkCount" : 2
 }, {
   "name" : "Andreas Grill",
-  "slug" : "andreas-grill-22",
-  "url" : "/speakers/andreas-grill-22/",
+  "slug" : "andreas-grill",
+  "url" : "/speakers/andreas-grill/",
   "photo" : "https://github.com/andreasgrill.png",
   "company" : "OpenForce GmbH",
   "jobTitle" : "Software Engineer & Architect",
   "talkCount" : 2
 }, {
   "name" : "Bruno Souza",
-  "slug" : "bruno-souza-99",
-  "url" : "/speakers/bruno-souza-99/",
+  "slug" : "bruno-souza",
+  "url" : "/speakers/bruno-souza/",
   "photo" : "/img/49816c43-bfa3-4229-8d9f-e501ff41a81c.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 2
 }, {
   "name" : "Daniel Pfeiffer",
-  "slug" : "daniel-pfeiffer-79",
-  "url" : "/speakers/daniel-pfeiffer-79/",
+  "slug" : "daniel-pfeiffer",
+  "url" : "/speakers/daniel-pfeiffer/",
   "photo" : "/img/2bc08dc8-b673-4035-b2ac-950b7f8a60a2.jpg",
   "company" : "Radancy",
   "jobTitle" : "SVP, Engineering Europe",
   "talkCount" : 2
 }, {
   "name" : "Erich Stadler",
-  "slug" : "erich-stadler-45",
-  "url" : "/speakers/erich-stadler-45/",
+  "slug" : "erich-stadler",
+  "url" : "/speakers/erich-stadler/",
   "photo" : "/img/27a9b5f2-40ef-4864-8c84-15a46c584f1e.jpg",
   "company" : "adesso Austria GmbH",
   "jobTitle" : "Senior Java Softwareingenieur",
   "talkCount" : 2
 }, {
-  "name" : "Marco Sussitz",
-  "slug" : "marco-sussitz-31",
-  "url" : "/speakers/marco-sussitz-31/",
-  "photo" : "https://github.com/ReneThu.png",
-  "company" : "dynatrace",
-  "jobTitle" : "Software Developer",
+  "name" : "Gergö Barany",
+  "slug" : "gergo-barany",
+  "url" : "/speakers/gergo-barany/",
+  "photo" : "https://github.com/gergo-.png",
+  "company" : "Oracle",
+  "jobTitle" : "Senior Software Engineer",
+  "talkCount" : 2
+}, {
+  "name" : "Henning Schwentner",
+  "slug" : "henning-schwentner",
+  "url" : "/speakers/henning-schwentner/",
+  "photo" : "https://github.com/hschwentner.png",
+  "company" : null,
+  "jobTitle" : null,
   "talkCount" : 2
 }, {
   "name" : "Mark Struberg",
-  "slug" : "mark-struberg-77",
-  "url" : "/speakers/mark-struberg-77/",
+  "slug" : "mark-struberg",
+  "url" : "/speakers/mark-struberg/",
   "photo" : "https://github.com/struberg.png",
   "company" : "Research Industrial Systems Engineering (RISE)",
   "jobTitle" : "Senior Software Engineer",
   "talkCount" : 2
 }, {
-  "name" : "Philipp Seifert-Kehrer",
-  "slug" : "philipp-seifert-kehrer-18",
-  "url" : "/speakers/philipp-seifert-kehrer-18/",
-  "photo" : "https://github.com/original-flipster69.png",
-  "company" : "Posedio GmbH",
-  "jobTitle" : "Senior Software Engineer",
-  "talkCount" : 2
-}, {
   "name" : "Sebastian Kühnau",
-  "slug" : "sebastian-kuhnau-7",
-  "url" : "/speakers/sebastian-kuhnau-7/",
+  "slug" : "sebastian-kuhnau",
+  "url" : "/speakers/sebastian-kuhnau/",
   "photo" : "https://github.com/SebastianKuehnau.png",
   "company" : "Vaadin",
   "jobTitle" : "Senior Developer Advocate",
   "talkCount" : 2
 }, {
-  "name" : "Unknown Speaker",
-  "slug" : "unknown-speaker-88",
-  "url" : "/speakers/unknown-speaker-88/",
-  "photo" : null,
-  "company" : null,
-  "jobTitle" : null,
-  "talkCount" : 2
-}, {
   "name" : "Vadym Kazulkin",
-  "slug" : "vadym-kazulkin-1",
-  "url" : "/speakers/vadym-kazulkin-1/",
+  "slug" : "vadym-kazulkin",
+  "url" : "/speakers/vadym-kazulkin/",
   "photo" : "https://github.com/Vadym79.png",
   "company" : "ip.labs GmbH",
   "jobTitle" : "Head Of Development",
   "talkCount" : 2
 }, {
   "name" : "Adam Eri",
-  "slug" : "adam-eri-72",
-  "url" : "/speakers/adam-eri-72/",
+  "slug" : "adam-eri",
+  "url" : "/speakers/adam-eri/",
   "photo" : "https://github.com/eriadam.png",
   "company" : "bimspot / smino",
   "jobTitle" : "Software Architect",
   "talkCount" : 1
 }, {
   "name" : "Adam Warski",
-  "slug" : "adam-warski-106",
-  "url" : "/speakers/adam-warski-106/",
+  "slug" : "adam-warski",
+  "url" : "/speakers/adam-warski/",
   "photo" : "/img/6b6e1e24-03d0-4386-9ba8-7d315af9adc6.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Adam Zielinski",
-  "slug" : "adam-zielinski-92",
-  "url" : "/speakers/adam-zielinski-92/",
+  "slug" : "adam-zielinski",
+  "url" : "/speakers/adam-zielinski/",
   "photo" : "/img/69fe7d93-b882-4777-9bed-bdc3a7ac89e5.jpg",
   "company" : "Research Industrial Systems Engineering (RISE)",
   "jobTitle" : "Software Enthusiast",
   "talkCount" : 1
 }, {
   "name" : "Alexander Rothe",
-  "slug" : "alexander-rothe-61",
-  "url" : "/speakers/alexander-rothe-61/",
+  "slug" : "alexander-rothe",
+  "url" : "/speakers/alexander-rothe/",
   "photo" : "/img/97b4ad92-265a-4686-a025-7db00d4450cd.jpg",
   "company" : "Spread Group",
   "jobTitle" : "Engineering Team Lead",
   "talkCount" : 1
 }, {
   "name" : "Anca Ghenade",
-  "slug" : "anca-ghenade-32",
-  "url" : "/speakers/anca-ghenade-32/",
+  "slug" : "anca-ghenade",
+  "url" : "/speakers/anca-ghenade/",
   "photo" : "https://github.com/tinyg210.png",
   "company" : "LocalStack",
   "jobTitle" : "Developer Advocate",
   "talkCount" : 1
 }, {
   "name" : "Andrei Dan",
-  "slug" : "andrei-dan-81",
-  "url" : "/speakers/andrei-dan-81/",
+  "slug" : "andrei-dan",
+  "url" : "/speakers/andrei-dan/",
   "photo" : "https://github.com/andreidan.png",
   "company" : "Elastic",
   "jobTitle" : "Principal Software Engineer I",
   "talkCount" : 1
 }, {
   "name" : "Andrew Poulter",
-  "slug" : "andrew-poulter-34",
-  "url" : "/speakers/andrew-poulter-34/",
+  "slug" : "andrew-poulter",
+  "url" : "/speakers/andrew-poulter/",
   "photo" : "https://github.com/AJPoulter.png",
   "company" : "dynatrace",
   "jobTitle" : "Team Captain & Senior Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Bartosz Majsak",
-  "slug" : "bartosz-majsak-66",
-  "url" : "/speakers/bartosz-majsak-66/",
+  "slug" : "bartosz-majsak",
+  "url" : "/speakers/bartosz-majsak/",
   "photo" : "https://github.com/bartoszmajsak.png",
   "company" : "Red Hat",
   "jobTitle" : "Principal Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Catherine Easdon",
-  "slug" : "catherine-easdon-24",
-  "url" : "/speakers/catherine-easdon-24/",
+  "slug" : "catherine-easdon",
+  "url" : "/speakers/catherine-easdon/",
   "photo" : "https://github.com/cattius.png",
   "company" : "dynatrace",
   "jobTitle" : "Senior Prvacy Engineer & Team Captain",
   "talkCount" : 1
 }, {
   "name" : "Christian Heitzmann",
-  "slug" : "christian-heitzmann-30",
-  "url" : "/speakers/christian-heitzmann-30/",
+  "slug" : "christian-heitzmann",
+  "url" : "/speakers/christian-heitzmann/",
   "photo" : "/img/9e5070e4-a0d8-499b-adf8-b3a103c88467.jpg",
   "company" : "SimplexaCode AG",
   "jobTitle" : "Certified Software Developer",
   "talkCount" : 1
 }, {
   "name" : "Christian Humer",
-  "slug" : "christian-humer-12",
-  "url" : "/speakers/christian-humer-12/",
+  "slug" : "christian-humer",
+  "url" : "/speakers/christian-humer/",
   "photo" : "https://github.com/chumer.png",
   "company" : "Oracle",
   "jobTitle" : "Consulting Researcher / Engineer",
   "talkCount" : 1
 }, {
   "name" : "Christian Köberl",
-  "slug" : "christian-koberl-94",
-  "url" : "/speakers/christian-koberl-94/",
+  "slug" : "christian-koberl",
+  "url" : "/speakers/christian-koberl/",
   "photo" : "/img/ad3f16e5-c5c0-4637-b8c9-6163b2bba9d9.jpg",
   "company" : "Porsche Informatik",
   "jobTitle" : "Software Architect",
   "talkCount" : 1
 }, {
+  "name" : "Christian Lutnik",
+  "slug" : "christian-lutnik",
+  "url" : "/speakers/christian-lutnik/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Christoph Kober",
-  "slug" : "christoph-kober-47",
-  "url" : "/speakers/christoph-kober-47/",
+  "slug" : "christoph-kober",
+  "url" : "/speakers/christoph-kober/",
   "photo" : "https://github.com/Kamaruni.png",
   "company" : "SQUER",
   "jobTitle" : "Lead Software Engineer",
   "talkCount" : 1
 }, {
+  "name" : "Christoph Pickl",
+  "slug" : "christoph-pickl",
+  "url" : "/speakers/christoph-pickl/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Christos Kotselidis",
-  "slug" : "christos-kotselidis-101",
-  "url" : "/speakers/christos-kotselidis-101/",
+  "slug" : "christos-kotselidis",
+  "url" : "/speakers/christos-kotselidis/",
   "photo" : "/img/7876cbf6-eedb-4fa3-815b-dd7447fb9b46.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
+  "name" : "Claudiu-Marius Cherloaba",
+  "slug" : "claudiu-marius-cherloaba",
+  "url" : "/speakers/claudiu-marius-cherloaba/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Craftwork Team",
-  "slug" : "craftwork-team-89",
-  "url" : "/speakers/craftwork-team-89/",
+  "slug" : "craftwork-team",
+  "url" : "/speakers/craftwork-team/",
   "photo" : null,
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Dajena Drinic",
-  "slug" : "dajena-drinic-98",
-  "url" : "/speakers/dajena-drinic-98/",
+  "slug" : "dajena-drinic",
+  "url" : "/speakers/dajena-drinic/",
   "photo" : "/img/aa802bb7-72fd-43ef-9ec8-89f3dbf4bf5b.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
+  "name" : "Daniel Jahre",
+  "slug" : "daniel-jahre",
+  "url" : "/speakers/daniel-jahre/",
+  "photo" : "https://github.com/daja77.png",
+  "company" : "Proregia AG",
+  "jobTitle" : "Software Development Management",
+  "talkCount" : 1
+}, {
   "name" : "Donato Wolfisberg",
-  "slug" : "donato-wolfisberg-63",
-  "url" : "/speakers/donato-wolfisberg-63/",
+  "slug" : "donato-wolfisberg",
+  "url" : "/speakers/donato-wolfisberg/",
   "photo" : "https://github.com/SirCremefresh.png",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Elias Erkinger",
-  "slug" : "elias-erkinger-102",
-  "url" : "/speakers/elias-erkinger-102/",
+  "slug" : "elias-erkinger",
+  "url" : "/speakers/elias-erkinger/",
   "photo" : "/img/3daddde1-3e8c-4949-9f31-bf03519beb05.jpg",
   "company" : "ACTIVE SOLUTION GmbH",
   "jobTitle" : "Software Developer",
   "talkCount" : 1
 }, {
   "name" : "Georg Pirklbauer",
-  "slug" : "georg-pirklbauer-3",
-  "url" : "/speakers/georg-pirklbauer-3/",
+  "slug" : "georg-pirklbauer",
+  "url" : "/speakers/georg-pirklbauer/",
   "photo" : "https://media.licdn.com/dms/image/v2/C5603AQFVFZZsH4zC5w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1597943810151?e=1755734400&v=beta&t=y5yxg1XAr0UDePKWMhmsLeMnoTwiN86KFCV2PfmFhh0",
   "company" : "dynatrace",
   "jobTitle" : "Senior Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Georgios Angelopoulos",
-  "slug" : "georgios-angelopoulos-103",
-  "url" : "/speakers/georgios-angelopoulos-103/",
+  "slug" : "georgios-angelopoulos",
+  "url" : "/speakers/georgios-angelopoulos/",
   "photo" : "/img/e9193bbb-3faf-4b7f-92c3-7ca0d9eb0fa3.jpg",
   "company" : "Prewave",
   "jobTitle" : "Lead Developer",
   "talkCount" : 1
 }, {
-  "name" : "Gergö Barany",
-  "slug" : "gergo-barany-58",
-  "url" : "/speakers/gergo-barany-58/",
-  "photo" : "https://github.com/gergo-.png",
-  "company" : "Oracle",
-  "jobTitle" : "Senior Software Engineer",
-  "talkCount" : 1
-}, {
   "name" : "Gerhard Hipfinger",
-  "slug" : "gerhard-hipfinger-38",
-  "url" : "/speakers/gerhard-hipfinger-38/",
+  "slug" : "gerhard-hipfinger",
+  "url" : "/speakers/gerhard-hipfinger/",
   "photo" : "https://github.com/nano4711.png",
   "company" : "OpenForce GmbH",
   "jobTitle" : "Founder & Owner",
   "talkCount" : 1
 }, {
   "name" : "Gerrit Grunwald",
-  "slug" : "gerrit-grunwald-13",
-  "url" : "/speakers/gerrit-grunwald-13/",
+  "slug" : "gerrit-grunwald",
+  "url" : "/speakers/gerrit-grunwald/",
   "photo" : "https://github.com/HanSolo.png",
   "company" : "Azul Systems",
   "jobTitle" : "Principal Engineer",
   "talkCount" : 1
 }, {
   "name" : "Gregor Jarisch",
-  "slug" : "gregor-jarisch-39",
-  "url" : "/speakers/gregor-jarisch-39/",
+  "slug" : "gregor-jarisch",
+  "url" : "/speakers/gregor-jarisch/",
   "photo" : "/img/e4af6120-a8f1-4537-a896-a6d8ad19ec87.jpg",
   "company" : "Gnowbe",
   "jobTitle" : "Chief Technology Officer",
   "talkCount" : 1
 }, {
+  "name" : "Görge Albrecht",
+  "slug" : "gorge-albrecht",
+  "url" : "/speakers/gorge-albrecht/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Hans-Peter Grahsl",
-  "slug" : "hans-peter-grahsl-25",
-  "url" : "/speakers/hans-peter-grahsl-25/",
+  "slug" : "hans-peter-grahsl",
+  "url" : "/speakers/hans-peter-grahsl/",
   "photo" : "https://github.com/hpgrahsl.png",
   "company" : "Decodable",
   "jobTitle" : "Staff Developer Advocate",
   "talkCount" : 1
 }, {
   "name" : "Haoyi Li",
-  "slug" : "haoyi-li-9",
-  "url" : "/speakers/haoyi-li-9/",
+  "slug" : "haoyi-li",
+  "url" : "/speakers/haoyi-li/",
   "photo" : "https://github.com/lihaoyi.png",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
-  "name" : "Henning Schwentner",
-  "slug" : "henning-schwentner-73",
-  "url" : "/speakers/henning-schwentner-73/",
-  "photo" : "https://github.com/hschwentner.png",
-  "company" : null,
-  "jobTitle" : null,
-  "talkCount" : 1
-}, {
   "name" : "Igor Pernek",
-  "slug" : "igor-pernek-36",
-  "url" : "/speakers/igor-pernek-36/",
+  "slug" : "igor-pernek",
+  "url" : "/speakers/igor-pernek/",
   "photo" : "https://github.com/igorper.png",
   "company" : "dynatrace",
   "jobTitle" : "Team Lead & Principal Software Engineer",
   "talkCount" : 1
 }, {
-  "name" : "ING-DiBa Team",
-  "slug" : "ing-diba-team-87",
-  "url" : "/speakers/ing-diba-team-87/",
-  "photo" : null,
-  "company" : null,
-  "jobTitle" : null,
-  "talkCount" : 1
-}, {
   "name" : "Iryna Dohndorf",
-  "slug" : "iryna-dohndorf-104",
-  "url" : "/speakers/iryna-dohndorf-104/",
+  "slug" : "iryna-dohndorf",
+  "url" : "/speakers/iryna-dohndorf/",
   "photo" : "/img/14412db5-da8b-4e20-8a57-aed3e8a9b3f3.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Jakob Durstberger",
-  "slug" : "jakob-durstberger-21",
-  "url" : "/speakers/jakob-durstberger-21/",
+  "slug" : "jakob-durstberger",
+  "url" : "/speakers/jakob-durstberger/",
   "photo" : "https://github.com/JDurstberger.png",
   "company" : "Ursa Agilis Consulting",
   "jobTitle" : "Consulting Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Jakob Fiegerl",
-  "slug" : "jakob-fiegerl-16",
-  "url" : "/speakers/jakob-fiegerl-16/",
+  "slug" : "jakob-fiegerl",
+  "url" : "/speakers/jakob-fiegerl/",
   "photo" : "https://github.com/jakob-fiegerl.png",
   "company" : "bitpanda",
   "jobTitle" : "Lead Engineer",
   "talkCount" : 1
 }, {
   "name" : "Jan Kotek",
-  "slug" : "jan-kotek-56",
-  "url" : "/speakers/jan-kotek-56/",
+  "slug" : "jan-kotek",
+  "url" : "/speakers/jan-kotek/",
   "photo" : "https://github.com/jankotek.png",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Jan Stępień",
-  "slug" : "jan-stepien-54",
-  "url" : "/speakers/jan-stepien-54/",
+  "slug" : "jan-stepien",
+  "url" : "/speakers/jan-stepien/",
   "photo" : "https://github.com/jstepien.png",
   "company" : "INNOQ",
   "jobTitle" : "Senior Consultant",
   "talkCount" : 1
 }, {
   "name" : "Javid Asgarov",
-  "slug" : "javid-asgarov-62",
-  "url" : "/speakers/javid-asgarov-62/",
+  "slug" : "javid-asgarov",
+  "url" : "/speakers/javid-asgarov/",
   "photo" : "https://github.com/asgarov1.png",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
+  "name" : "John Ceccarelli",
+  "slug" : "john-ceccarelli",
+  "url" : "/speakers/john-ceccarelli/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Kai Waehner",
-  "slug" : "kai-waehner-100",
-  "url" : "/speakers/kai-waehner-100/",
+  "slug" : "kai-waehner",
+  "url" : "/speakers/kai-waehner/",
   "photo" : "/img/a8395b37-4a58-4769-848d-3f201377c4f4.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Kevin Watzal",
-  "slug" : "kevin-watzal-10",
-  "url" : "/speakers/kevin-watzal-10/",
+  "slug" : "kevin-watzal",
+  "url" : "/speakers/kevin-watzal/",
   "photo" : "https://github.com/doompickaxe.png",
   "company" : "HOTSOURCE",
   "jobTitle" : "Lead Backend Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Kilian Schröder",
-  "slug" : "kilian-schroder-35",
-  "url" : "/speakers/kilian-schroder-35/",
+  "slug" : "kilian-schroder",
+  "url" : "/speakers/kilian-schroder/",
   "photo" : "https://github.com/kilianschroed.png",
   "company" : "cloudflight",
   "jobTitle" : "Technical Architect, Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Kirk Pepperdine",
-  "slug" : "kirk-pepperdine-53",
-  "url" : "/speakers/kirk-pepperdine-53/",
+  "slug" : "kirk-pepperdine",
+  "url" : "/speakers/kirk-pepperdine/",
   "photo" : "https://github.com/kcpeppe.png",
   "company" : "Microsoft",
   "jobTitle" : "Principal Engineer",
   "talkCount" : 1
 }, {
   "name" : "Klaus Unger",
-  "slug" : "klaus-unger-46",
-  "url" : "/speakers/klaus-unger-46/",
+  "slug" : "klaus-unger",
+  "url" : "/speakers/klaus-unger/",
   "photo" : "https://github.com/KlausUnger.png",
   "company" : "Software Craftsmen GmbH & Co KG",
   "jobTitle" : "CEO",
   "talkCount" : 1
 }, {
   "name" : "Lars Röwekamp",
-  "slug" : "lars-rowekamp-71",
-  "url" : "/speakers/lars-rowekamp-71/",
+  "slug" : "lars-rowekamp",
+  "url" : "/speakers/lars-rowekamp/",
   "photo" : "https://github.com/mobileLarson.png",
   "company" : "OpenKnowledge GmbH",
   "jobTitle" : "CIO New Technologies",
   "talkCount" : 1
 }, {
-  "name" : "Lukas",
-  "slug" : "lukas-76",
-  "url" : "/speakers/lukas-76/",
+  "name" : "Leo Bowen Wang",
+  "slug" : "leo-bowen-wang",
+  "url" : "/speakers/leo-bowen-wang/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
+  "name" : "Lukas Berger",
+  "slug" : "lukas-berger",
+  "url" : "/speakers/lukas-berger/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
+  "name" : "Lukáš Krejčí",
+  "slug" : "lukas-krejci",
+  "url" : "/speakers/lukas-krejci/",
   "photo" : null,
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Lukáš Petrovický",
-  "slug" : "lukas-petrovicky-95",
-  "url" : "/speakers/lukas-petrovicky-95/",
+  "slug" : "lukas-petrovicky",
+  "url" : "/speakers/lukas-petrovicky/",
   "photo" : "/img/09aac5c8-f6f7-4308-adfe-8498f369c479.jpg",
   "company" : "Red Hat",
   "jobTitle" : "Principal Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Marco Behler",
-  "slug" : "marco-behler-74",
-  "url" : "/speakers/marco-behler-74/",
+  "slug" : "marco-behler",
+  "url" : "/speakers/marco-behler/",
   "photo" : null,
   "company" : "Jetbrains",
   "jobTitle" : "Developer Advocate",
   "talkCount" : 1
 }, {
   "name" : "Marios Trivyzas",
-  "slug" : "marios-trivyzas-82",
-  "url" : "/speakers/marios-trivyzas-82/",
+  "slug" : "marios-trivyzas",
+  "url" : "/speakers/marios-trivyzas/",
   "photo" : "https://github.com/matriv.png",
   "company" : "crate.io",
   "jobTitle" : "Senior Software Engineer - CrateDB",
   "talkCount" : 1
 }, {
   "name" : "Marián Varga",
-  "slug" : "marian-varga-107",
-  "url" : "/speakers/marian-varga-107/",
+  "slug" : "marian-varga",
+  "url" : "/speakers/marian-varga/",
   "photo" : "/img/73e2050a-0639-4ab6-bf9b-bda330e26b16.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Marko Jurišić",
-  "slug" : "marko-jurisic-60",
-  "url" : "/speakers/marko-jurisic-60/",
+  "slug" : "marko-jurisic",
+  "url" : "/speakers/marko-jurisic/",
   "photo" : null,
   "company" : "willhaben internet service GmbH & Co KG",
   "jobTitle" : "Senior Software Developer",
   "talkCount" : 1
 }, {
+  "name" : "Markus Demetz",
+  "slug" : "markus-demetz",
+  "url" : "/speakers/markus-demetz/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Martin Večeřa",
-  "slug" : "martin-vecera-90",
-  "url" : "/speakers/martin-vecera-90/",
+  "slug" : "martin-vecera",
+  "url" : "/speakers/martin-vecera/",
   "photo" : "https://github.com/marvec.png",
   "company" : "Red Hat",
   "jobTitle" : "Director, Software Quality Engineering",
   "talkCount" : 1
 }, {
   "name" : "Matthias Grimmer",
-  "slug" : "matthias-grimmer-93",
-  "url" : "/speakers/matthias-grimmer-93/",
+  "slug" : "matthias-grimmer",
+  "url" : "/speakers/matthias-grimmer/",
   "photo" : "/img/b165c577-b55e-4b48-99f7-68c941e2320f.jpg",
   "company" : "Oracle",
   "jobTitle" : "Senior Member of Technical Staff",
   "talkCount" : 1
 }, {
+  "name" : "Matthias Langer",
+  "slug" : "matthias-langer",
+  "url" : "/speakers/matthias-langer/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Matthias Seidemann",
-  "slug" : "matthias-seidemann-57",
-  "url" : "/speakers/matthias-seidemann-57/",
+  "slug" : "matthias-seidemann",
+  "url" : "/speakers/matthias-seidemann/",
   "photo" : "https://github.com/matthiasseidemann.png",
   "company" : "willhaben internet service GmbH & Co KG",
   "jobTitle" : "Java Software Developer",
   "talkCount" : 1
 }, {
   "name" : "Matti Tahvonen",
-  "slug" : "matti-tahvonen-75",
-  "url" : "/speakers/matti-tahvonen-75/",
+  "slug" : "matti-tahvonen",
+  "url" : "/speakers/matti-tahvonen/",
   "photo" : "https://github.com/mstahv.png",
   "company" : "Vaadin",
   "jobTitle" : "Senior Vaadin Expert",
   "talkCount" : 1
 }, {
   "name" : "Max Noe",
-  "slug" : "max-noe-29",
-  "url" : "/speakers/max-noe-29/",
+  "slug" : "max-noe",
+  "url" : "/speakers/max-noe/",
   "photo" : "https://github.com/mnohe.png",
   "company" : "dynatrace",
   "jobTitle" : "Senior Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Maximilian Göke",
-  "slug" : "maximilian-goke-43",
-  "url" : "/speakers/maximilian-goke-43/",
+  "slug" : "maximilian-goke",
+  "url" : "/speakers/maximilian-goke/",
   "photo" : "https://github.com/magoeke.png",
   "company" : "doubleSlash Net-Business GmbH",
   "jobTitle" : "Software Developer",
   "talkCount" : 1
 }, {
   "name" : "Michael Riedmann",
-  "slug" : "michael-riedmann-14",
-  "url" : "/speakers/michael-riedmann-14/",
+  "slug" : "michael-riedmann",
+  "url" : "/speakers/michael-riedmann/",
   "photo" : "https://github.com/mriedmann.png",
   "company" : "cloudflight",
   "jobTitle" : "Site Reliability Engineer",
   "talkCount" : 1
 }, {
   "name" : "Milan Gogic",
-  "slug" : "milan-gogic-20",
-  "url" : "/speakers/milan-gogic-20/",
+  "slug" : "milan-gogic",
+  "url" : "/speakers/milan-gogic/",
   "photo" : "https://github.com/GogicM.png",
   "company" : "viesure innovation center GmbH",
   "jobTitle" : "Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Milan Heimschild",
-  "slug" : "milan-heimschild-97",
-  "url" : "/speakers/milan-heimschild-97/",
+  "slug" : "milan-heimschild",
+  "url" : "/speakers/milan-heimschild/",
   "photo" : null,
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Milen Dyankov",
-  "slug" : "milen-dyankov-44",
-  "url" : "/speakers/milen-dyankov-44/",
+  "slug" : "milen-dyankov",
+  "url" : "/speakers/milen-dyankov/",
   "photo" : "https://github.com/azzazzel.png",
   "company" : "AxonIQ",
   "jobTitle" : "VP of Developer Experience",
   "talkCount" : 1
 }, {
+  "name" : "Mohsen Ahmadian",
+  "slug" : "mohsen-ahmadian",
+  "url" : "/speakers/mohsen-ahmadian/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
+  "name" : "Moritz Becker",
+  "slug" : "moritz-becker",
+  "url" : "/speakers/moritz-becker/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Nacho Cougil",
-  "slug" : "nacho-cougil-6",
-  "url" : "/speakers/nacho-cougil-6/",
+  "slug" : "nacho-cougil",
+  "url" : "/speakers/nacho-cougil/",
   "photo" : "https://github.com/icougil.png",
   "company" : "dynatrace",
   "jobTitle" : "Team Lead",
   "talkCount" : 1
 }, {
   "name" : "Nicolas Fränkel",
-  "slug" : "nicolas-frankel-86",
-  "url" : "/speakers/nicolas-frankel-86/",
+  "slug" : "nicolas-frankel",
+  "url" : "/speakers/nicolas-frankel/",
   "photo" : "https://github.com/nfrankel.png",
   "company" : "Hazelcast",
   "jobTitle" : "Developer Advocate",
   "talkCount" : 1
 }, {
+  "name" : "Ondro Mihalyi",
+  "slug" : "ondro-mihalyi",
+  "url" : "/speakers/ondro-mihalyi/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Onur Kasimlar",
-  "slug" : "onur-kasimlar-40",
-  "url" : "/speakers/onur-kasimlar-40/",
+  "slug" : "onur-kasimlar",
+  "url" : "/speakers/onur-kasimlar/",
   "photo" : "https://github.com/okasimlar.png",
   "company" : "Posedio GmbH",
   "jobTitle" : "Senior Information Technology Consultant",
   "talkCount" : 1
 }, {
+  "name" : "Otavio Santana",
+  "slug" : "otavio-santana",
+  "url" : "/speakers/otavio-santana/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Pavel Macík",
-  "slug" : "pavel-macik-91",
-  "url" : "/speakers/pavel-macik-91/",
+  "slug" : "pavel-macik",
+  "url" : "/speakers/pavel-macik/",
   "photo" : "https://github.com/pmacik.png",
   "company" : "Red Hat",
   "jobTitle" : "Principal Quality Engineer",
   "talkCount" : 1
 }, {
   "name" : "Peter Palaga",
-  "slug" : "peter-palaga-84",
-  "url" : "/speakers/peter-palaga-84/",
+  "slug" : "peter-palaga",
+  "url" : "/speakers/peter-palaga/",
   "photo" : "https://github.com/ppalaga.png",
   "company" : "Red Hat",
   "jobTitle" : "Principal Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Peter Scheipl",
-  "slug" : "peter-scheipl-80",
-  "url" : "/speakers/peter-scheipl-80/",
+  "slug" : "peter-scheipl",
+  "url" : "/speakers/peter-scheipl/",
   "photo" : null,
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Philipp Lengauer",
-  "slug" : "philipp-lengauer-64",
-  "url" : "/speakers/philipp-lengauer-64/",
+  "slug" : "philipp-lengauer",
+  "url" : "/speakers/philipp-lengauer/",
   "photo" : "https://github.com/plengauer.png",
   "company" : "dynatrace",
   "jobTitle" : "Software Developer",
   "talkCount" : 1
 }, {
   "name" : "Rainer Hahnekamp",
-  "slug" : "rainer-hahnekamp-42",
-  "url" : "/speakers/rainer-hahnekamp-42/",
+  "slug" : "rainer-hahnekamp",
+  "url" : "/speakers/rainer-hahnekamp/",
   "photo" : "https://github.com/rainerhahnekamp.png",
   "company" : "Angular Architects",
   "jobTitle" : "Trainer/Consultant",
   "talkCount" : 1
 }, {
   "name" : "Richard Klavora",
-  "slug" : "richard-klavora-68",
-  "url" : "/speakers/richard-klavora-68/",
+  "slug" : "richard-klavora",
+  "url" : "/speakers/richard-klavora/",
   "photo" : "https://github.com/klavoraraurea.png",
   "company" : "Hazelcast",
   "jobTitle" : "Developer Advocate",
   "talkCount" : 1
 }, {
   "name" : "Robert C. Kahlert",
-  "slug" : "robert-c-kahlert-105",
-  "url" : "/speakers/robert-c-kahlert-105/",
+  "slug" : "robert-c-kahlert",
+  "url" : "/speakers/robert-c-kahlert/",
   "photo" : "/img/8a270974-3280-4476-8b50-7d268691cafb.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Roland Kuhn",
-  "slug" : "roland-kuhn-65",
-  "url" : "/speakers/roland-kuhn-65/",
+  "slug" : "roland-kuhn",
+  "url" : "/speakers/roland-kuhn/",
   "photo" : "https://github.com/rkuhn.png",
   "company" : "Actyx AG",
   "jobTitle" : "CTO and co-founder",
   "talkCount" : 1
 }, {
   "name" : "Roman Pickl",
-  "slug" : "roman-pickl-85",
-  "url" : "/speakers/roman-pickl-85/",
+  "slug" : "roman-pickl",
+  "url" : "/speakers/roman-pickl/",
   "photo" : "/img/8eb25963-1565-46da-adca-c794f58e825e.jpg",
   "company" : "Fluidtime Data Services GmbH",
   "jobTitle" : "Chief Technical Officer",
   "talkCount" : 1
 }, {
   "name" : "Rudy De Busscher",
-  "slug" : "rudy-de-busscher-49",
-  "url" : "/speakers/rudy-de-busscher-49/",
+  "slug" : "rudy-de-busscher",
+  "url" : "/speakers/rudy-de-busscher/",
   "photo" : "https://github.com/rdebusscher.png",
   "company" : "MicroStream/EclipseStore",
   "jobTitle" : "Developer Advocate",
   "talkCount" : 1
 }, {
   "name" : "Simon Gartner",
-  "slug" : "simon-gartner-5",
-  "url" : "/speakers/simon-gartner-5/",
+  "slug" : "simon-gartner",
+  "url" : "/speakers/simon-gartner/",
   "photo" : "https://github.com/sgartner03.png",
   "company" : "Gepardec IT Services GmbH",
   "jobTitle" : "Junior Java Engineer",
   "talkCount" : 1
 }, {
+  "name" : "Simon Ritter",
+  "slug" : "simon-ritter",
+  "url" : "/speakers/simon-ritter/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Simon Schrottner",
-  "slug" : "simon-schrottner-11",
-  "url" : "/speakers/simon-schrottner-11/",
+  "slug" : "simon-schrottner",
+  "url" : "/speakers/simon-schrottner/",
   "photo" : "https://github.com/aepfli.png",
   "company" : "dynatrace",
   "jobTitle" : "Senior Software Engineer",
   "talkCount" : 1
 }, {
   "name" : "Stefan Baumgartner",
-  "slug" : "stefan-baumgartner-55",
-  "url" : "/speakers/stefan-baumgartner-55/",
+  "slug" : "stefan-baumgartner",
+  "url" : "/speakers/stefan-baumgartner/",
   "photo" : "https://github.com/ddprrt.png",
   "company" : "dynatrace",
   "jobTitle" : "Senior Product Architect",
   "talkCount" : 1
 }, {
   "name" : "Stefan Zaufl",
-  "slug" : "stefan-zaufl-50",
-  "url" : "/speakers/stefan-zaufl-50/",
+  "slug" : "stefan-zaufl",
+  "url" : "/speakers/stefan-zaufl/",
   "photo" : "https://github.com/StefanZaufl.png",
   "company" : "IBM",
   "jobTitle" : "Software Developer",
   "talkCount" : 1
 }, {
-  "name" : "Stephan Belk",
-  "slug" : "stephan-belk-33",
-  "url" : "/speakers/stephan-belk-33/",
-  "photo" : "/img/e3cf00d9-11bd-462e-97c5-5f7294fd8bd8.jpg",
-  "company" : "dynatrace",
-  "jobTitle" : "Team Lead & Senior Software Engineer",
+  "name" : "Stephan Belks",
+  "slug" : "stephan-belks",
+  "url" : "/speakers/stephan-belks/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Stephan Kraft",
-  "slug" : "stephan-kraft-52",
-  "url" : "/speakers/stephan-kraft-52/",
+  "slug" : "stephan-kraft",
+  "url" : "/speakers/stephan-kraft/",
   "photo" : null,
   "company" : "Red Hat",
   "jobTitle" : "Community Advocate",
   "talkCount" : 1
 }, {
   "name" : "Stephan Pelikan",
-  "slug" : "stephan-pelikan-83",
-  "url" : "/speakers/stephan-pelikan-83/",
+  "slug" : "stephan-pelikan",
+  "url" : "/speakers/stephan-pelikan/",
   "photo" : "https://github.com/stephanpelikan.png",
   "company" : "camunda BPM",
   "jobTitle" : "Software Developer",
   "talkCount" : 1
 }, {
   "name" : "Stephan Prantl",
-  "slug" : "stephan-prantl-51",
-  "url" : "/speakers/stephan-prantl-51/",
+  "slug" : "stephan-prantl",
+  "url" : "/speakers/stephan-prantl/",
   "photo" : "/img/0563cf2d-a706-40a8-85c7-8d0734fae39b.jpg",
   "company" : "willhaben internet service GmbH & Co KG",
   "jobTitle" : "Senior Software Engineer",
   "talkCount" : 1
 }, {
+  "name" : "Stephan Wald",
+  "slug" : "stephan-wald",
+  "url" : "/speakers/stephan-wald/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 1
+}, {
   "name" : "Tagir Valeev",
-  "slug" : "tagir-valeev-23",
-  "url" : "/speakers/tagir-valeev-23/",
+  "slug" : "tagir-valeev",
+  "url" : "/speakers/tagir-valeev/",
   "photo" : "/img/77d84e25-eeef-4cc1-a523-efcebb5e42c2.jpg",
   "company" : "Jetbrains",
   "jobTitle" : "Technical Lead",
   "talkCount" : 1
 }, {
   "name" : "Thomas Höfferl",
-  "slug" : "thomas-hofferl-67",
-  "url" : "/speakers/thomas-hofferl-67/",
+  "slug" : "thomas-hofferl",
+  "url" : "/speakers/thomas-hofferl/",
   "photo" : "/img/149bea1d-1e46-4b1b-a4d4-bb0611c64925.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Thomas Schneider",
-  "slug" : "thomas-schneider-96",
-  "url" : "/speakers/thomas-schneider-96/",
+  "slug" : "thomas-schneider",
+  "url" : "/speakers/thomas-schneider/",
   "photo" : "/img/64ac8ebe-df66-446c-8537-d2a102115f5a.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Thomas Wuerthinger",
-  "slug" : "thomas-wuerthinger-70",
-  "url" : "/speakers/thomas-wuerthinger-70/",
+  "slug" : "thomas-wuerthinger",
+  "url" : "/speakers/thomas-wuerthinger/",
   "photo" : "https://github.com/thomaswue.png",
   "company" : "Oracle",
   "jobTitle" : "Vice President of Software Development",
   "talkCount" : 1
 }, {
   "name" : "Thorben Janssen",
-  "slug" : "thorben-janssen-69",
-  "url" : "/speakers/thorben-janssen-69/",
+  "slug" : "thorben-janssen",
+  "url" : "/speakers/thorben-janssen/",
   "photo" : "/img/04622db8-d9ec-45ba-8083-5657a679071e.jpg",
   "company" : null,
   "jobTitle" : null,
   "talkCount" : 1
 }, {
   "name" : "Timea Turdean",
-  "slug" : "timea-turdean-41",
-  "url" : "/speakers/timea-turdean-41/",
+  "slug" : "timea-turdean",
+  "url" : "/speakers/timea-turdean/",
   "photo" : "/img/853052f9-ada5-4558-8a75-7535e0022df4.jpg",
   "company" : "inrupt",
   "jobTitle" : "Software Engineer",
   "talkCount" : 1
 }, {
-  "name" : "Daniel Jahre",
-  "slug" : "daniel-jahre-78",
-  "url" : "/speakers/daniel-jahre-78/",
-  "photo" : "https://github.com/daja77.png",
-  "company" : "Proregia AG",
-  "jobTitle" : "Software Development Management",
+  "name" : "ING-DiBa Team",
+  "slug" : "ing-diba-team",
+  "url" : "/speakers/ing-diba-team/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
+  "talkCount" : 0
+}, {
+  "name" : "Stephan Belk",
+  "slug" : "stephan-belk",
+  "url" : "/speakers/stephan-belk/",
+  "photo" : "/img/e3cf00d9-11bd-462e-97c5-5f7294fd8bd8.jpg",
+  "company" : "dynatrace",
+  "jobTitle" : "Team Lead & Senior Software Engineer",
+  "talkCount" : 0
+}, {
+  "name" : "Unknown Speaker",
+  "slug" : "unknown-speaker",
+  "url" : "/speakers/unknown-speaker/",
+  "photo" : null,
+  "company" : null,
+  "jobTitle" : null,
   "talkCount" : 0
 } ]

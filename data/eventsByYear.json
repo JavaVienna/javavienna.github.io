@@ -3,25 +3,25 @@
   "events" : [ {
     "title" : "April Meetup",
     "dateDisplay" : "Apr 12, 2027 at 18:00",
-    "url" : "/events/april-meetup-101/",
+    "url" : "/events/2027-04-12-april-meetup/",
     "talkCount" : 0,
     "hasTalks" : false
   }, {
     "title" : "maybe march meetup",
     "dateDisplay" : "Mar 8, 2027 at 18:00",
-    "url" : "/events/maybe-march-meetup-100/",
+    "url" : "/events/2027-03-08-maybe-march-meetup/",
     "talkCount" : 0,
     "hasTalks" : false
   }, {
     "title" : "february meetup with Ed Burns",
     "dateDisplay" : "Feb 22, 2027 at 18:00",
-    "url" : "/events/february-meetup-with-ed-burns-99/",
+    "url" : "/events/2027-02-22-february-meetup-with-ed-burns/",
     "talkCount" : 0,
     "hasTalks" : false
   }, {
     "title" : "January Meetup",
     "dateDisplay" : "Jan 18, 2027 at 18:00",
-    "url" : "/events/january-meetup-98/",
+    "url" : "/events/2027-01-18-january-meetup/",
     "talkCount" : 0,
     "hasTalks" : false
   } ]
@@ -30,154 +30,154 @@
   "events" : [ {
     "title" : "\"TornadoVM: GPU Accelerated Java\" +\"Drive your UI with AI\"",
     "dateDisplay" : "Dec 3, 2026 at 18:00",
-    "url" : "/events/tornadovm-gpu-accelerated-java-drive-your-ui-with-ai-97/",
+    "url" : "/events/2026-12-03-tornadovm-gpu-accelerated-java-drive-your-ui-with/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Dev Career in the AI Era\" + \"Java Static Site Generation\"",
     "dateDisplay" : "Nov 16, 2026 at 18:00",
-    "url" : "/events/dev-career-in-the-ai-era-java-static-site-generation-96/",
+    "url" : "/events/2026-11-16-dev-career-in-the-ai-era-java-static-site-generat/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Event-Driven Workflow Orchestration\" + \"Functional Java\"",
     "dateDisplay" : "Oct 19, 2026 at 18:00",
-    "url" : "/events/event-driven-workflow-orchestration-functional-java-95/",
+    "url" : "/events/2026-10-19-event-driven-workflow-orchestration-functional-ja/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Debugging Class Loading with GDB\" + \"Be a better SW-Eng with AI\"",
     "dateDisplay" : "Sep 21, 2026 at 18:00",
-    "url" : "/events/debugging-class-loading-with-gdb-be-a-better-sw-eng-with-ai-92/",
+    "url" : "/events/2026-09-21-debugging-class-loading-with-gdb-be-a-better-sw-e/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"living immutable: painless Java Records\" + \"Zero-Deps Java AI Business Agents\"",
     "dateDisplay" : "Jun 29, 2026 at 18:00",
-    "url" : "/events/living-immutable-painless-java-records-zero-deps-java-ai-bus-94/",
+    "url" : "/events/2026-06-29-living-immutable-painless-java-records-zero-deps/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Unbreakable by design\" + \"Heaps of Trouble\"",
     "dateDisplay" : "Jun 15, 2026 at 18:00",
-    "url" : "/events/unbreakable-by-design-heaps-of-trouble-93/",
+    "url" : "/events/2026-06-15-unbreakable-by-design-heaps-of-trouble/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"From Reactive Streams -> Virtual Threads -> Flows\", \"Armeria μservice Fmwk\"",
     "dateDisplay" : "Jun 1, 2026 at 18:00",
-    "url" : "/events/from-reactive-streams-virtual-threads-flows-armeria-service-91/",
+    "url" : "/events/2026-06-01-from-reactive-streams-virtual-threads-flows-armer/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"OpenJDK, the JCP and JUGs: become a beyond senior expert\" + \"Schema Registries\"",
     "dateDisplay" : "Apr 29, 2026 at 18:00",
-    "url" : "/events/openjdk-the-jcp-and-jugs-become-a-beyond-senior-expert-schem-90/",
+    "url" : "/events/2026-04-29-openjdk-the-jcp-and-jugs-become-a-beyond-senior-e/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Domain-Driven Transformation—Modularizing and Modernizing Legacy Software",
     "dateDisplay" : "Apr 15, 2026 at 18:00",
-    "url" : "/events/domain-driven-transformation-modularizing-and-modernizing-le-89/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2026-04-15-domain-driven-transformation-modularizing-and-mod/",
+    "talkCount" : 1,
+    "hasTalks" : true
   }, {
     "title" : "Webswing & webforJ in der Praxis & Here we go again: Java26",
     "dateDisplay" : "Apr 7, 2026 at 18:00",
-    "url" : "/events/webswing-webforj-in-der-praxis-here-we-go-again-java26-88/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2026-04-07-webswing-webforj-in-der-praxis-here-we-go-again-j/",
+    "talkCount" : 2,
+    "hasTalks" : true
   }, {
     "title" : "\"Building your own lock\" + \"AI-Driven Development Meets Jakarta EE\"",
     "dateDisplay" : "Mar 9, 2026 at 18:00",
-    "url" : "/events/building-your-own-lock-ai-driven-development-meets-jakarta-e-87/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2026-03-09-building-your-own-lock-ai-driven-development-meet/",
+    "talkCount" : 2,
+    "hasTalks" : true
   }, {
     "title" : "\"Easy Java Job Scheduling\" + \"Fullstack in a native.img\"",
     "dateDisplay" : "Feb 16, 2026 at 18:00",
-    "url" : "/events/easy-java-job-scheduling-fullstack-in-a-native-img-86/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2026-02-16-easy-java-job-scheduling-fullstack-in-a-native-im/",
+    "talkCount" : 2,
+    "hasTalks" : true
   }, {
     "title" : "\"Multithreading under the lens\" + \"Own Your Domain Before It Owns You\"",
     "dateDisplay" : "Jan 19, 2026 at 18:00",
-    "url" : "/events/multithreading-under-the-lens-own-your-domain-before-it-owns-85/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2026-01-19-multithreading-under-the-lens-own-your-domain-bef/",
+    "talkCount" : 2,
+    "hasTalks" : true
   } ]
 }, {
   "year" : 2025,
   "events" : [ {
     "title" : "\"Spring AI\" (Dajena Drinic) + \"CSI: Observability\" (Andreas Grabner)",
     "dateDisplay" : "Dec 1, 2025 at 18:00",
-    "url" : "/events/spring-ai-dajena-drinic-csi-observability-andreas-grabner-82/",
+    "url" : "/events/2025-12-01-spring-ai-dajena-drinic-csi-observability-andreas/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Faster JVM Applications (Simon Ritter) / Pairing With LLM Agents (Adam Bien)",
     "dateDisplay" : "Nov 17, 2025 at 18:00",
-    "url" : "/events/faster-jvm-applications-simon-ritter-pairing-with-llm-agents-81/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2025-11-17-faster-jvm-applications-simon-ritter-pairing-with/",
+    "talkCount" : 2,
+    "hasTalks" : true
   }, {
     "title" : "\"Java 25 Unleashed\" + GraalVM25",
     "dateDisplay" : "Oct 20, 2025 at 18:00",
-    "url" : "/events/java-25-unleashed-graalvm25-83/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2025-10-20-java-25-unleashed-graalvm25/",
+    "talkCount" : 2,
+    "hasTalks" : true
   }, {
     "title" : "\"From 0 -> Hero: Mastering Domain-Driven Design in Java\" + \"Java Performance\"",
     "dateDisplay" : "Sep 22, 2025 at 18:00",
-    "url" : "/events/from-0-hero-mastering-domain-driven-design-in-java-java-perf-84/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2025-09-22-from-0-hero-mastering-domain-driven-design-in-jav/",
+    "talkCount" : 2,
+    "hasTalks" : true
   }, {
     "title" : "High Performance Spring Boot 3 on AWS Lambda",
     "dateDisplay" : "Jun 16, 2025 at 16:00",
-    "url" : "/events/high-performance-spring-boot-3-on-aws-lambda-36/",
+    "url" : "/events/2025-06-16-high-performance-spring-boot-3-on-aws-lambda/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"OpenRewrite in a Nutshell\" + \"how John started to like TDD (w/ spring boot)\"",
     "dateDisplay" : "Jun 2, 2025 at 18:00",
-    "url" : "/events/openrewrite-in-a-nutshell-how-john-started-to-like-tdd-w-spr-18/",
+    "url" : "/events/2025-06-02-openrewrite-in-a-nutshell-how-john-started-to-lik/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Vaadin 24 in the real world\" + \"Engineering a better Java build tool\"",
     "dateDisplay" : "May 19, 2025 at 18:00",
-    "url" : "/events/vaadin-24-in-the-real-world-engineering-a-better-java-build-12/",
+    "url" : "/events/2025-05-19-vaadin-24-in-the-real-world-engineering-a-better/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"JVMTI: what's the JVM Tool Interface\" + \"Fun with Flags: OpenFeature\"",
     "dateDisplay" : "May 5, 2025 at 18:00",
-    "url" : "/events/jvmti-what-s-the-jvm-tool-interface-fun-with-flags-openfeatu-16/",
+    "url" : "/events/2025-05-05-jvmti-what-s-the-jvm-tool-interface-fun-with-flag/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Truffle Meta Compilation in Action\"  + \"Exploring JVM Memory Management\"",
     "dateDisplay" : "Apr 7, 2025 at 18:00",
-    "url" : "/events/truffle-meta-compilation-in-action-exploring-jvm-memory-mana-55/",
+    "url" : "/events/2025-04-07-truffle-meta-compilation-in-action-exploring-jvm/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"From Zero to Hero - Keycloak as your BaaS!\" + \"trustworthy AI in your IDE\"",
     "dateDisplay" : "Mar 17, 2025 at 18:00",
-    "url" : "/events/from-zero-to-hero-keycloak-as-your-baas-trustworthy-ai-in-yo-2/",
+    "url" : "/events/2025-03-17-from-zero-to-hero-keycloak-as-your-baas-trustwort/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Zero-Downtime Monolith Decomposition\" + \"Evil Performance Testing\"",
     "dateDisplay" : "Feb 24, 2025 at 18:00",
-    "url" : "/events/zero-downtime-monolith-decomposition-evil-performance-testin-67/",
+    "url" : "/events/2025-02-24-zero-downtime-monolith-decomposition-evil-perform/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"How to optimize JPA: The SQL Police\" + \"Using .js, .py+wasm in your java apps\"",
     "dateDisplay" : "Jan 27, 2025 at 18:00",
-    "url" : "/events/how-to-optimize-jpa-the-sql-police-using-js-py-wasm-in-your-19/",
+    "url" : "/events/2025-01-27-how-to-optimize-jpa-the-sql-police-using-js-py-wa/",
     "talkCount" : 2,
     "hasTalks" : true
   } ]
@@ -186,73 +186,73 @@
   "events" : [ {
     "title" : "\"Pure Java LLM Integration\" + \"The Only Reasonable Way To Test your (µ)Services\"",
     "dateDisplay" : "Nov 25, 2024 at 18:00",
-    "url" : "/events/pure-java-llm-integration-the-only-reasonable-way-to-test-yo-17/",
+    "url" : "/events/2024-11-25-pure-java-llm-integration-the-only-reasonable-way/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Everything OpenAPI\" + \"API First revisited - where did we take a left turn?\"",
     "dateDisplay" : "Nov 11, 2024 at 18:00",
-    "url" : "/events/everything-openapi-api-first-revisited-where-did-we-take-a-l-3/",
+    "url" : "/events/2024-11-11-everything-openapi-api-first-revisited-where-did/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Messaging with Spring - Active MQ vs. Rabbit MQ\" + Contract Testing w/ Java",
     "dateDisplay" : "Oct 21, 2024 at 18:00",
-    "url" : "/events/messaging-with-spring-active-mq-vs-rabbit-mq-contract-testin-7/",
+    "url" : "/events/2024-10-21-messaging-with-spring-active-mq-vs-rabbit-mq-cont/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"The Beauty of Event Sourcing\" + \"Axon Framework basics & live coding\"",
     "dateDisplay" : "Sep 30, 2024 at 18:00",
-    "url" : "/events/the-beauty-of-event-sourcing-axon-framework-basics-live-codi-75/",
+    "url" : "/events/2024-09-30-the-beauty-of-event-sourcing-axon-framework-basic/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Is your spring boot app in K8s secure? & \"Why just not write bugs?\"",
     "dateDisplay" : "Jun 24, 2024 at 18:00",
-    "url" : "/events/is-your-spring-boot-app-in-k8s-secure-why-just-not-write-bug-43/",
+    "url" : "/events/2024-06-24-is-your-spring-boot-app-in-k8s-secure-why-just-no/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "CDC w/ Debezium; Privacy leaks beyond the class-level: protecting personal data",
     "dateDisplay" : "Jun 3, 2024 at 18:00",
-    "url" : "/events/cdc-w-debezium-privacy-leaks-beyond-the-class-level-protecti-71/",
+    "url" : "/events/2024-06-03-cdc-w-debezium-privacy-leaks-beyond-the-class-lev/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Venkat S.: \"Design Patterns Revisited in Modern Java\" & \"Know your Java?\"",
     "dateDisplay" : "May 6, 2024 at 18:00",
-    "url" : "/events/venkat-s-design-patterns-revisited-in-modern-java-know-your-31/",
+    "url" : "/events/2024-05-06-venkat-s-design-patterns-revisited-in-modern-java/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Jakarta EE 11 & Intelligent Apps in Java & Developer Career Masterplan",
     "dateDisplay" : "Apr 17, 2024 at 18:00",
-    "url" : "/events/jakarta-ee-11-intelligent-apps-in-java-developer-career-mast-61/",
+    "url" : "/events/2024-04-17-jakarta-ee-11-intelligent-apps-in-java-developer/",
     "talkCount" : 3,
     "hasTalks" : true
   }, {
     "title" : "\"Deep dive into Hibernate ORM 6.4 features\" + \"JVM Perf. Comparison for JDK 21\"",
     "dateDisplay" : "Apr 8, 2024 at 18:00",
-    "url" : "/events/deep-dive-into-hibernate-orm-6-4-features-jvm-perf-compariso-37/",
+    "url" : "/events/2024-04-08-deep-dive-into-hibernate-orm-6-4-features-jvm-per/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Extend your app securely\" & \"Parallele Programmierung in Java\"",
     "dateDisplay" : "Mar 11, 2024 at 18:00",
-    "url" : "/events/extend-your-app-securely-parallele-programmierung-in-java-59/",
+    "url" : "/events/2024-03-11-extend-your-app-securely-parallele-programmierung/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Debugging a debugger\" & \"REST vs. gRPC vs GraphQL\"",
     "dateDisplay" : "Feb 12, 2024 at 18:00",
-    "url" : "/events/debugging-a-debugger-rest-vs-grpc-vs-graphql-56/",
+    "url" : "/events/2024-02-12-debugging-a-debugger-rest-vs-grpc-vs-graphql/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Testcontainers + LocalStack + Spring\" & \"Java 21\"",
     "dateDisplay" : "Jan 8, 2024 at 18:00",
-    "url" : "/events/testcontainers-localstack-spring-java-21-76/",
+    "url" : "/events/2024-01-08-testcontainers-localstack-spring-java-21/",
     "talkCount" : 2,
     "hasTalks" : true
   } ]
@@ -261,55 +261,55 @@
   "events" : [ {
     "title" : "\"OS Profiling & code improvements\" & \"Reasonable Cloud Practices w/ Java @ AWS\"",
     "dateDisplay" : "Dec 4, 2023 at 18:00",
-    "url" : "/events/os-profiling-code-improvements-reasonable-cloud-practices-w-25/",
+    "url" : "/events/2023-12-04-os-profiling-code-improvements-reasonable-cloud-p/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "November \"Keycloak.X & quarkus\" & \"Java containerization deep dive\"",
     "dateDisplay" : "Nov 13, 2023 at 18:00",
-    "url" : "/events/november-keycloak-x-quarkus-java-containerization-deep-dive-21/",
+    "url" : "/events/2023-11-13-november-keycloak-x-quarkus-java-containerization/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Kafka: distributed workload scheduler & CLI: Java, Quarkus, PicoCLI &GraalVM",
     "dateDisplay" : "Oct 23, 2023 at 18:00",
-    "url" : "/events/kafka-distributed-workload-scheduler-cli-java-quarkus-picocl-24/",
+    "url" : "/events/2023-10-23-kafka-distributed-workload-scheduler-cli-java-qua/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Event-Driven Architecture with Axon Framework\" & \"The beauty of the monolith\"",
     "dateDisplay" : "Sep 25, 2023 at 18:00",
-    "url" : "/events/event-driven-architecture-with-axon-framework-the-beauty-of-23/",
+    "url" : "/events/2023-09-25-event-driven-architecture-with-axon-framework-the/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Microservice comm. done right\" & \"Modern observability w/ OpenTelemetry\"",
     "dateDisplay" : "Jun 26, 2023 at 18:00",
-    "url" : "/events/microservice-comm-done-right-modern-observability-w-opentele-41/",
+    "url" : "/events/2023-06-26-microservice-comm-done-right-modern-observability/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"E.D.D.I. - Conversational AI Middleware mit Quarkus\" & \"Quarkus + Kubernetes\"",
     "dateDisplay" : "Jun 5, 2023 at 18:00",
-    "url" : "/events/e-d-d-i-conversational-ai-middleware-mit-quarkus-quarkus-kub-49/",
+    "url" : "/events/2023-06-05-e-d-d-i-conversational-ai-middleware-mit-quarkus/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Solid: Foundation of Web3.0 for Java Devs\" + \"GraalVM & Spring Boot 3\"",
     "dateDisplay" : "May 15, 2023 at 18:00",
-    "url" : "/events/solid-foundation-of-web3-0-for-java-devs-graalvm-spring-boot-28/",
+    "url" : "/events/2023-05-15-solid-foundation-of-web3-0-for-java-devs-graalvm/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"HATEOAS – Können REST-APIs Geschichten erzählen?\" & \"Location Transparency\"",
     "dateDisplay" : "Apr 24, 2023 at 18:00",
-    "url" : "/events/hateoas-konnen-rest-apis-geschichten-erzahlen-location-trans-57/",
+    "url" : "/events/2023-04-24-hateoas-konnen-rest-apis-geschichten-erzahlen-loc/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Angular ❤️ Spring Boot\" & \"Various ways to jOOQ\"",
     "dateDisplay" : "Mar 6, 2023 at 18:00",
-    "url" : "/events/angular-spring-boot-various-ways-to-jooq-63/",
+    "url" : "/events/2023-03-06-angular-spring-boot-various-ways-to-jooq/",
     "talkCount" : 2,
     "hasTalks" : true
   } ]
@@ -318,55 +318,55 @@
   "events" : [ {
     "title" : "Logging Considered Harmful? & OpenTelemetry for Java",
     "dateDisplay" : "Dec 5, 2022 at 18:00",
-    "url" : "/events/logging-considered-harmful-opentelemetry-for-java-32/",
+    "url" : "/events/2022-12-05-logging-considered-harmful-opentelemetry-for-java/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"JSF is still alive\" + \"Spring Boot µService + CI/CD @ Openshift\"",
     "dateDisplay" : "Nov 7, 2022 at 18:00",
-    "url" : "/events/jsf-is-still-alive-spring-boot-service-ci-cd-openshift-6/",
+    "url" : "/events/2022-11-07-jsf-is-still-alive-spring-boot-service-ci-cd-open/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Java under the Hood of Elasticsearch + Look Ma', I made a Website!",
     "dateDisplay" : "Oct 3, 2022 at 18:00",
-    "url" : "/events/java-under-the-hood-of-elasticsearch-look-ma-i-made-a-websit-35/",
+    "url" : "/events/2022-10-03-java-under-the-hood-of-elasticsearch-look-ma-i-ma/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Hexagonical Arch & A-Testing\" & \"Securing Quarkus Apps with OIDC and Keycloak\"",
     "dateDisplay" : "Sep 5, 2022 at 18:00",
-    "url" : "/events/hexagonical-arch-a-testing-securing-quarkus-apps-with-oidc-a-29/",
+    "url" : "/events/2022-09-05-hexagonical-arch-a-testing-securing-quarkus-apps/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Performance w/ Kirk Pepperdine + Hibernate/Blaze Persistence w/ Christian Beikov",
     "dateDisplay" : "Aug 4, 2022 at 18:00",
-    "url" : "/events/performance-w-kirk-pepperdine-hibernate-blaze-persistence-w-60/",
+    "url" : "/events/2022-08-04-performance-w-kirk-pepperdine-hibernate-blaze-per/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Property-based testing with Java + log4Shell",
     "dateDisplay" : "Jun 27, 2022 at 18:00",
-    "url" : "/events/property-based-testing-with-java-log4shell-26/",
+    "url" : "/events/2022-06-27-property-based-testing-with-java-log4shell/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "May meetup: faster JVM start-up techniques + Rust for Java developers",
     "dateDisplay" : "May 30, 2022 at 18:00",
-    "url" : "/events/may-meetup-faster-jvm-start-up-techniques-rust-for-java-deve-44/",
+    "url" : "/events/2022-05-30-may-meetup-faster-jvm-start-up-techniques-rust-fo/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "MapDB + OpenSource Career | Using Kafka&Opensearch at Willhaben",
     "dateDisplay" : "Apr 25, 2022 at 18:00",
-    "url" : "/events/mapdb-opensource-career-using-kafka-opensearch-at-willhaben-70/",
+    "url" : "/events/2022-04-25-mapdb-opensource-career-using-kafka-opensearch-at/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Hibernate 6 + Java/JakartaEE @ Azure",
     "dateDisplay" : "Mar 28, 2022 at 18:00",
-    "url" : "/events/hibernate-6-java-jakartaee-azure-30/",
+    "url" : "/events/2022-03-28-hibernate-6-java-jakartaee-azure/",
     "talkCount" : 2,
     "hasTalks" : true
   } ]
@@ -375,19 +375,19 @@
   "events" : [ {
     "title" : "November Meetup (in Person): GraalVM + Distributed Performance Challenges",
     "dateDisplay" : "Nov 15, 2021 at 18:00",
-    "url" : "/events/november-meetup-in-person-graalvm-distributed-performance-ch-65/",
+    "url" : "/events/2021-11-15-november-meetup-in-person-graalvm-distributed-per/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Oktober Meetup (in Person): Keycloak + Whats new in Java",
     "dateDisplay" : "Oct 18, 2021 at 18:00",
-    "url" : "/events/oktober-meetup-in-person-keycloak-whats-new-in-java-9/",
+    "url" : "/events/2021-10-18-oktober-meetup-in-person-keycloak-whats-new-in-ja/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Release early, Release often!; Spring Tricks; Kubernetes Operators mit Java",
     "dateDisplay" : "May 20, 2021 at 17:45",
-    "url" : "/events/release-early-release-often-spring-tricks-kubernetes-operato-34/",
+    "url" : "/events/2021-05-20-release-early-release-often-spring-tricks-kuberne/",
     "talkCount" : 3,
     "hasTalks" : true
   } ]
@@ -396,13 +396,13 @@
   "events" : [ {
     "title" : "\"Unbiased Allocation Profiling\" & \"Tracing for Java Developers\"",
     "dateDisplay" : "Mar 2, 2020 at 18:00",
-    "url" : "/events/unbiased-allocation-profiling-tracing-for-java-developers-33/",
+    "url" : "/events/2020-03-02-unbiased-allocation-profiling-tracing-for-java-de/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Jan 2k20: From Akka Persistence to Factory Automation (Roland Kuhn)",
     "dateDisplay" : "Jan 20, 2020 at 18:00",
-    "url" : "/events/jan-2k20-from-akka-persistence-to-factory-automation-roland-79/",
+    "url" : "/events/2020-01-20-jan-2k20-from-akka-persistence-to-factory-automat/",
     "talkCount" : 1,
     "hasTalks" : true
   } ]
@@ -411,55 +411,55 @@
   "events" : [ {
     "title" : "\"Let's Develop on Prod w/ Istio + K8s\" + \"Blaze-Persistence GraphQL Support\"",
     "dateDisplay" : "Dec 16, 2019 at 18:00",
-    "url" : "/events/let-s-develop-on-prod-w-istio-k8s-blaze-persistence-graphql-53/",
+    "url" : "/events/2019-12-16-let-s-develop-on-prod-w-istio-k8s-blaze-persisten/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Lightweight Feature Envs w/ Spring Cloud & K8s + Apache Freemarker",
     "dateDisplay" : "Nov 25, 2019 at 18:00",
-    "url" : "/events/lightweight-feature-envs-w-spring-cloud-k8s-apache-freemarke-22/",
+    "url" : "/events/2019-11-25-lightweight-feature-envs-w-spring-cloud-k8s-apach/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "October Meetup: Hazelcast Cloud + ( JPA + JooQ + FlyWay )",
     "dateDisplay" : "Oct 21, 2019 at 18:00",
-    "url" : "/events/october-meetup-hazelcast-cloud-jpa-jooq-flyway-20/",
+    "url" : "/events/2019-10-21-october-meetup-hazelcast-cloud-jpa-jooq-flyway/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Maximizing Performance with GraalVM - Java + Scala!",
     "dateDisplay" : "Sep 23, 2019 at 18:00",
-    "url" : "/events/maximizing-performance-with-graalvm-java-scala-77/",
+    "url" : "/events/2019-09-23-maximizing-performance-with-graalvm-java-scala/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "Spaß mit Microservices: Transaktionen + Demystifying Java Lang. Features 9 - 11",
     "dateDisplay" : "Jun 24, 2019 at 18:00",
-    "url" : "/events/spa-mit-microservices-transaktionen-demystifying-java-lang-f-47/",
+    "url" : "/events/2019-06-24-spa-mit-microservices-transaktionen-demystifying/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Workshop: Getting started with OAuth 2.0",
     "dateDisplay" : "May 27, 2019 at 18:00",
-    "url" : "/events/workshop-getting-started-with-oauth-2-0-58/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2019-05-27-workshop-getting-started-with-oauth-2-0/",
+    "talkCount" : 1,
+    "hasTalks" : true
   }, {
     "title" : "March Meetup: Quarkus + BIM collaboration platform w/ Neo4j + JAVA microservices",
     "dateDisplay" : "Mar 25, 2019 at 18:00",
-    "url" : "/events/march-meetup-quarkus-bim-collaboration-platform-w-neo4j-java-48/",
+    "url" : "/events/2019-03-25-march-meetup-quarkus-bim-collaboration-platform-w/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "It's all about the domain, honey – Fachliche Architektur für Java mit DDD",
     "dateDisplay" : "Feb 5, 2019 at 18:00",
-    "url" : "/events/it-s-all-about-the-domain-honey-fachliche-architektur-fur-ja-5/",
+    "url" : "/events/2019-02-05-it-s-all-about-the-domain-honey-fachliche-archite/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "January Meetup: Spring Boot: AutoConfiguration & Testing",
     "dateDisplay" : "Jan 21, 2019 at 18:00",
-    "url" : "/events/january-meetup-spring-boot-autoconfiguration-testing-27/",
+    "url" : "/events/2019-01-21-january-meetup-spring-boot-autoconfiguration-test/",
     "talkCount" : 2,
     "hasTalks" : true
   } ]
@@ -468,49 +468,49 @@
   "events" : [ {
     "title" : "\"Entity Views - Not your father's DTOs\" + \"Kickstart Your Gatling Perf-Testing\"",
     "dateDisplay" : "Dec 3, 2018 at 18:00",
-    "url" : "/events/entity-views-not-your-father-s-dtos-kickstart-your-gatling-p-15/",
+    "url" : "/events/2018-12-03-entity-views-not-your-father-s-dtos-kickstart-you/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Service-Meshed JavaEE With Istio\" + \"Bulletproof JavaEE Apps\"",
     "dateDisplay" : "Oct 5, 2018 at 16:00",
-    "url" : "/events/service-meshed-javaee-with-istio-bulletproof-javaee-apps-62/",
+    "url" : "/events/2018-10-05-service-meshed-javaee-with-istio-bulletproof-java/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Vaadin 10 Roadshow\" + \"Running Vaadin 10 on Play!Framework\"",
     "dateDisplay" : "Sep 17, 2018 at 18:00",
-    "url" : "/events/vaadin-10-roadshow-running-vaadin-10-on-play-framework-54/",
+    "url" : "/events/2018-09-17-vaadin-10-roadshow-running-vaadin-10-on-play-fram/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"API on the leash\" & \"Jakarta EE and the road ahead\"",
     "dateDisplay" : "Jun 25, 2018 at 18:00",
-    "url" : "/events/api-on-the-leash-jakarta-ee-and-the-road-ahead-38/",
+    "url" : "/events/2018-06-25-api-on-the-leash-jakarta-ee-and-the-road-ahead/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Parallel and Asynchronous Programming with Streams and CompletableFuture",
     "dateDisplay" : "May 28, 2018 at 17:00",
-    "url" : "/events/parallel-and-asynchronous-programming-with-streams-and-compl-40/",
+    "url" : "/events/2018-05-28-parallel-and-asynchronous-programming-with-stream/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "April Meetup: All 'bout Spring Boot",
     "dateDisplay" : "Apr 16, 2018 at 18:00",
-    "url" : "/events/april-meetup-all-bout-spring-boot-64/",
-    "talkCount" : 0,
-    "hasTalks" : false
+    "url" : "/events/2018-04-16-april-meetup-all-bout-spring-boot/",
+    "talkCount" : 3,
+    "hasTalks" : true
   }, {
     "title" : "Intro Akka-Streams; AsciiDoc+PDF; Event-Sourcing w/ Play! & Akka",
     "dateDisplay" : "Feb 26, 2018 at 18:00",
-    "url" : "/events/intro-akka-streams-asciidoc-pdf-event-sourcing-w-play-akka-50/",
+    "url" : "/events/2018-02-26-intro-akka-streams-asciidoc-pdf-event-sourcing-w/",
     "talkCount" : 3,
     "hasTalks" : true
   }, {
     "title" : "The cool and the cruel of MicroServices [German]",
     "dateDisplay" : "Jan 15, 2018 at 18:00",
-    "url" : "/events/the-cool-and-the-cruel-of-microservices-german-78/",
+    "url" : "/events/2018-01-15-the-cool-and-the-cruel-of-microservices-german/",
     "talkCount" : 1,
     "hasTalks" : true
   } ]
@@ -519,43 +519,43 @@
   "events" : [ {
     "title" : "Oktober-Meetup: Play!@Craze + Lightning Talks",
     "dateDisplay" : "Oct 23, 2017 at 18:30",
-    "url" : "/events/oktober-meetup-play-craze-lightning-talks-74/",
+    "url" : "/events/2017-10-23-oktober-meetup-play-craze-lightning-talks/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "CrateDB Distributed SQL & Search Database; Migrating from SQL to NoSQL",
     "dateDisplay" : "Jun 26, 2017 at 18:00",
-    "url" : "/events/cratedb-distributed-sql-search-database-migrating-from-sql-t-39/",
+    "url" : "/events/2017-06-26-cratedb-distributed-sql-search-database-migrating/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "June Meetup: Camunda BPM + Getting started with Akka",
     "dateDisplay" : "Jun 12, 2017 at 18:15",
-    "url" : "/events/june-meetup-camunda-bpm-getting-started-with-akka-68/",
+    "url" : "/events/2017-06-12-june-meetup-camunda-bpm-getting-started-with-akka/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Event Sourcing using Akka on AWS + source dependencies with Maven and",
     "dateDisplay" : "May 8, 2017 at 18:15",
-    "url" : "/events/event-sourcing-using-akka-on-aws-source-dependencies-with-ma-52/",
+    "url" : "/events/2017-05-08-event-sourcing-using-akka-on-aws-source-dependenc/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Continuous Code Quality with the SonarEcosystem + List<­MiniTalk>­",
     "dateDisplay" : "Apr 3, 2017 at 18:15",
-    "url" : "/events/continuous-code-quality-with-the-sonarecosystem-list-minital-14/",
+    "url" : "/events/2017-04-03-continuous-code-quality-with-the-sonarecosystem-l/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "Spring Boot under the hood",
     "dateDisplay" : "Mar 15, 2017 at 18:00",
-    "url" : "/events/spring-boot-under-the-hood-72/",
+    "url" : "/events/2017-03-15-spring-boot-under-the-hood/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "Model Driven Architecture & Design at ING-DiBa",
     "dateDisplay" : "Jan 16, 2017 at 18:00",
-    "url" : "/events/model-driven-architecture-design-at-ing-diba-4/",
+    "url" : "/events/2017-01-16-model-driven-architecture-design-at-ing-diba/",
     "talkCount" : 1,
     "hasTalks" : true
   } ]
@@ -564,31 +564,31 @@
   "events" : [ {
     "title" : "Microservices with the PlayFramework + \"Tools of the Trade\"",
     "dateDisplay" : "Dec 5, 2016 at 18:15",
-    "url" : "/events/microservices-with-the-playframework-tools-of-the-trade-13/",
+    "url" : "/events/2016-12-05-microservices-with-the-playframework-tools-of-the/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Blaze-Persistence for JPA + Case Study: Spring Framework at Craftwork",
     "dateDisplay" : "Nov 14, 2016 at 18:15",
-    "url" : "/events/blaze-persistence-for-jpa-case-study-spring-framework-at-cra-46/",
+    "url" : "/events/2016-11-14-blaze-persistence-for-jpa-case-study-spring-frame/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Intro to Kotlin + JUnit 5",
     "dateDisplay" : "Oct 10, 2016 at 18:15",
-    "url" : "/events/intro-to-kotlin-junit-5-73/",
+    "url" : "/events/2016-10-10-intro-to-kotlin-junit-5/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "What's new in Play Framework 2.5 + Lagom - the microservice framework",
     "dateDisplay" : "Apr 18, 2016 at 18:15",
-    "url" : "/events/what-s-new-in-play-framework-2-5-lagom-the-microservice-fram-1/",
+    "url" : "/events/2016-04-18-what-s-new-in-play-framework-2-5-lagom-the-micros/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "\"Redis\" & \"Groovy Scripting\"",
     "dateDisplay" : "Mar 14, 2016 at 18:30",
-    "url" : "/events/redis-groovy-scripting-45/",
+    "url" : "/events/2016-03-14-redis-groovy-scripting/",
     "talkCount" : 2,
     "hasTalks" : true
   } ]
@@ -597,50 +597,50 @@
   "events" : [ {
     "title" : "NetRexx - human oriented language for the JVM; PerfCake - Performance testing",
     "dateDisplay" : "Dec 14, 2015 at 18:15",
-    "url" : "/events/netrexx-human-oriented-language-for-the-jvm-perfcake-perform-42/",
+    "url" : "/events/2015-12-14-netrexx-human-oriented-language-for-the-jvm-perfc/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Se7en deadly deployment sins + Smart Cloud Load Balancing [with #BEER]",
     "dateDisplay" : "Oct 12, 2015 at 18:30",
-    "url" : "/events/se7en-deadly-deployment-sins-smart-cloud-load-balancing-with-11/",
+    "url" : "/events/2015-10-12-se7en-deadly-deployment-sins-smart-cloud-load-bal/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Juli Meetup: AWS Deployment Mechanics [Workshop!] (JSUG #72)",
     "dateDisplay" : "Jul 6, 2015 at 18:15",
-    "url" : "/events/juli-meetup-aws-deployment-mechanics-workshop-jsug-72-51/",
+    "url" : "/events/2015-07-06-juli-meetup-aws-deployment-mechanics-workshop-jsu/",
     "talkCount" : 1,
     "hasTalks" : true
   }, {
     "title" : "Juni Meetup: Spring Boot + One VM to rule them all (JSUG #71)",
     "dateDisplay" : "Jun 8, 2015 at 18:15",
-    "url" : "/events/juni-meetup-spring-boot-one-vm-to-rule-them-all-jsug-71-8/",
+    "url" : "/events/2015-06-08-juni-meetup-spring-boot-one-vm-to-rule-them-all-j/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Mai Meetup: PlayFramework 2.4, Akka-Persistence, ?? (JSUG #70)",
     "dateDisplay" : "May 11, 2015 at 18:15",
-    "url" : "/events/mai-meetup-playframework-2-4-akka-persistence-jsug-70-66/",
+    "url" : "/events/2015-05-11-mai-meetup-playframework-2-4-akka-persistence-jsu/",
     "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "April Meetup: Event Sourcing & CQRS (JSUG #69)",
     "dateDisplay" : "Apr 20, 2015 at 18:15",
-    "url" : "/events/april-meetup-event-sourcing-cqrs-jsug-69-69/",
+    "url" : "/events/2015-04-20-april-meetup-event-sourcing-cqrs-jsug-69/",
     "talkCount" : 1,
+    "hasTalks" : true
+  }, {
+    "title" : "Apache Tapestry 5 + Java Server Monitoring",
+    "dateDisplay" : "Mar 30, 2015 at 18:15",
+    "url" : "/events/2015-03-30-apache-tapestry-5-java-server-monitoring/",
+    "talkCount" : 2,
     "hasTalks" : true
   }, {
     "title" : "Apache Tapestry 5 + Java Server Monitoring (Copy)",
     "dateDisplay" : "Mar 30, 2015 at 18:15",
-    "url" : "/events/apache-tapestry-5-java-server-monitoring-copy-80/",
+    "url" : "/events/2015-03-30-apache-tapestry-5-java-server-monitoring-copy/",
     "talkCount" : 0,
     "hasTalks" : false
-  }, {
-    "title" : "Apache Tapestry 5 + Java Server Monitoring",
-    "dateDisplay" : "Mar 30, 2015 at 18:15",
-    "url" : "/events/apache-tapestry-5-java-server-monitoring-10/",
-    "talkCount" : 2,
-    "hasTalks" : true
   } ]
 } ]

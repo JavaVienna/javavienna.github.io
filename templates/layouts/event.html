@@ -36,6 +36,33 @@ layout: main
             {#if talk.description}
               <p class="text-sm text-slate-600 mt-3 whitespace-pre-line">{talk.description}</p>
             {/if}
+            {#if !talk.speakers.isEmpty}
+              <div class="mt-4 space-y-4">
+                {#for s in talk.speakers}
+                  <div class="flex gap-3">
+                    {#if s.photo}
+                      <img src="{#if s.photo.startsWith('/')}{site.url(s.photo)}{#else}{s.photo}{/if}"
+                           alt="{s.name}" class="w-12 h-12 rounded-full object-cover shrink-0">
+                    {/if}
+                    <div class="min-w-0">
+                      <a href="{site.url('/speakers/')}{s.slug}/" class="font-medium text-slate-800 hover:underline">{s.name}</a>
+                      {#if s.jobTitle || s.company}
+                        <span class="text-xs text-slate-500">&middot; {#if s.jobTitle}{s.jobTitle}{/if}{#if s.jobTitle && s.company} at {/if}{#if s.company}{s.company}{/if}</span>
+                      {/if}
+                      {#if s.hasBio}
+                        <p class="text-sm text-slate-600 mt-1 whitespace-pre-line">{s.bio}</p>
+                      {/if}
+                      <div class="flex gap-3 mt-1 text-xs">
+                        {#if s.linkedinUrl}<a href="{s.linkedinUrl}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">LinkedIn</a>{/if}
+                        {#if s.twitter}<a href="https://twitter.com/{s.twitter}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">Twitter</a>{/if}
+                        {#if s.github}<a href="https://github.com/{s.github}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">GitHub</a>{/if}
+                        {#if s.website}<a href="{s.website}" target="_blank" rel="noopener" class="text-blue-600 hover:underline">Website</a>{/if}
+                      </div>
+                    </div>
+                  </div>
+                {/for}
+              </div>
+            {/if}
             {#if !talk.resources.isEmpty}
               <div class="mt-3 flex flex-wrap gap-2">
                 {#for r in talk.resources}
