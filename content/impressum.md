@@ -9,11 +9,24 @@ layout: page
 
 Java Vienna is organized by the Java Student User Group Vienna.
 
-**Organizer:** Dominik Dorn
-**Email:** dominik@dominikdorn.com
-**Web:** [https://www.java.wien](https://www.java.wien)
 
-This website is a static, informational site about the Java Vienna meetup community.
-Content is published by the organizers of the meetup group.
+Herausgeber
+
++ Verein Java Student User Group
++ Döblerhofstraße 10/128, A-1030 Wien
++ ZVR-Zahl. 633642864
++ Obmann: Dominik Dorn
+
+Technische Umsetzung
+* Ansprechpartner: Dominik Dorn
+* Unternehmen: greyflower GmbH
+* Adresse: Döblerhofstraße 10/128, A-1030 Wien
+
+
+**Organizer:** Dominik Dorn
+
+**Email:** dominik@dominikdorn.com
+
+**Web:** [https://www.java.wien](https://www.java.wien)
 
 For event registration please use our [Meetup page](https://www.meetup.com/java-Vienna/).
