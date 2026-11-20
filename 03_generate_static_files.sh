@@ -10,6 +10,8 @@ cd "$(dirname "$0")"
 source ./_env.sh
 
 free_port "$ROQ_PORT"
+# Build our OWN purged Tailwind CSS (public/css/tailwind.css); no cdn.tailwindcss.com.
+./build_css.sh
 echo "==> Generating static site (this reads committed data/*.json, not the DB) ..."
 rm -rf target/roq
 QUARKUS_ROQ_GENERATOR_BATCH=true QUARKUS_HTTP_PORT="$ROQ_PORT" \

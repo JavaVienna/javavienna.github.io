@@ -1,4 +1,4 @@
-/* Minimal supplemental styles; Tailwind CDN provides the rest. */
+/* Minimal supplemental styles; locally-built Tailwind (css/tailwind.css) provides the rest. */
 html { scroll-behavior: smooth; }
 
 /* Companies page: CSS-only tabs (Alle / Hall of Fame), no JavaScript.

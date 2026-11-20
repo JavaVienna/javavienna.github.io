@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{#if page.title}{page.title} | {/if}{site.title}</title>
   <meta name="description" content="{#if page.description}{page.description}{#else}{site.description}{/if}">
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="{site.url('/css/tailwind.css')}">
   <link rel="stylesheet" href="{site.url('/css/site.css')}">
 </head>
 <body class="bg-white text-slate-800 antialiased">
