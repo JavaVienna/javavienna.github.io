@@ -177,8 +177,44 @@ plus `/img/` and `/css/`.
 8. **`generate` must not need the DB.** Verified: the built app has no postgres/jdbc
    dependency; `target/roq/` builds purely from committed `data/*.json` + `public/img/`.
 
-## Deploy (future)
+## Deployment
 
-Commit `content/`, `data/` + `public/img/` after re-running the exporter + sync, push, and
-let CI run the generate step and publish `target/roq/` to the java.wien host or GitHub
-Pages. No DB credentials are needed in CI.
+The site auto-deploys to **GitHub Pages** on every push to `main`. No manual step, no DB, no
+secrets in CI — it builds from the committed `content/` + `data/` + `public/`.
+
+**Repo / host:** `JavaVienna/javavienna.github.io`, served at the custom domain
+**https://www.java.wien** (matches `site.url` in `application.properties`).
+
+**What runs:** `.github/workflows/deploy.yml` (triggers: push to `main`, or manual
+*Run workflow* / `workflow_dispatch`). Two jobs:
+
+1. **build** — checkout → set up **Java 21** (temurin, maven cache) → generate the static
+   site with `QUARKUS_ROQ_GENERATOR_BATCH=true mvn -B -q -DskipTests package quarkus:run`
+   (batch mode as an **env var**, not `-D` — see gotcha 2b) → `touch target/roq/.nojekyll`
+   (so Pages serves the artifact as-is, no Jekyll) → `actions/upload-pages-artifact@v3`
+   with `path: target/roq`.
+2. **deploy** — `actions/deploy-pages@v4` publishes that artifact to the `github-pages`
+   environment. The live URL shows up as the deploy job's output.
+
+A run takes ~1 minute. Concurrency is capped at one deploy (`group: pages`,
+`cancel-in-progress: false`), so overlapping pushes queue rather than cancel.
+
+**Release flow (the normal way to ship a content change):**
+
+```bash
+(cd ../exporter && ./01_export.sh && ./02_sync.sh)   # refresh content/ data/ img/ from the DB
+git -C . diff                                         # review what changed
+git add content/events content/speakers content/companies public/img data/*.json
+git commit -m "Refresh site content from the raffle DB"
+git push origin main                                  # ← triggers build + deploy
+gh run watch                                          # optional: follow the Action
+```
+
+**Rollback:** `git revert <bad-commit> && git push origin main` — the Action rebuilds and
+redeploys the previous content. (There is no separate "deploy" artifact to roll back; the
+source commit *is* the deploy.)
+
+**One-time repo setting (not in git):** Settings → Pages → *Source* must be **GitHub Actions**
+(not "Deploy from a branch"), and the custom domain `www.java.wien` is set there. These live in
+the repo's Pages settings, not in a committed file — there is intentionally **no** `CNAME` file
+and `.nojekyll` is added by CI, not committed.
