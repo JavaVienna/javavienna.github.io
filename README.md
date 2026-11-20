@@ -182,8 +182,9 @@ plus `/img/` and `/css/`.
 The site auto-deploys to **GitHub Pages** on every push to `main`. No manual step, no DB, no
 secrets in CI — it builds from the committed `content/` + `data/` + `public/`.
 
-**Repo / host:** `JavaVienna/javavienna.github.io`, served at the custom domain
-**https://www.java.wien** (matches `site.url` in `application.properties`).
+**Repo / host:** `JavaVienna/javavienna.github.io`, served at the **apex** custom domain
+**https://java.wien** (matches `site.url` in `application.properties`); `www.java.wien`
+301-redirects to it.
 
 **What runs:** `.github/workflows/deploy.yml` (triggers: push to `main`, or manual
 *Run workflow* / `workflow_dispatch`). Two jobs:
@@ -214,7 +215,19 @@ gh run watch                                          # optional: follow the Act
 redeploys the previous content. (There is no separate "deploy" artifact to roll back; the
 source commit *is* the deploy.)
 
+**Custom domain = `public/CNAME` (committed, the source of truth).** The file `public/CNAME`
+contains `java.wien`. Roq copies `public/` into `target/roq/`, so the deploy publishes
+`/CNAME`, which is what tells Pages the custom domain. **The GitHub Pages *settings* `cname`
+is overwritten by this file on every deploy** — so to change the domain, edit `public/CNAME`
+(not just the web UI). `.nojekyll` is added by CI, not committed.
+
+**Apex vs www — why the apex (and the cert).** GitHub Pages mints a Let's Encrypt cert for the
+*configured* domain. With the apex `java.wien` configured **and** DNS set for both (apex `A`/`AAAA`
+→ Pages IPs `185.199.108–111.153` + IPv6; `www` `CNAME` → `javavienna.github.io`), Pages issues
+one cert covering **both** `java.wien` and `www.java.wien`. If the custom domain is set to `www`
+instead, the apex gets **no** cert and `https://java.wien` fails TLS (served the generic
+`*.github.io` cert) — that was the 2026-11-20 bug. So keep `public/CNAME` = apex.
+
 **One-time repo setting (not in git):** Settings → Pages → *Source* must be **GitHub Actions**
-(not "Deploy from a branch"), and the custom domain `www.java.wien` is set there. These live in
-the repo's Pages settings, not in a committed file — there is intentionally **no** `CNAME` file
-and `.nojekyll` is added by CI, not committed.
+(not "Deploy from a branch"). Enforce HTTPS is on; after a domain change the cert re-provisions
+(minutes, up to ~24h) and `https_certificate` is briefly `null` via `gh api .../pages`.
